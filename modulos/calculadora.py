@@ -6,8 +6,9 @@ def suma(a,b):
 def resta(a,b):
     return a-b
 
-""" 
+
+# print("testing")
+
 if __name__ == "__main__":
     print("suma(11,7)=", suma(11,7))
     print("resta(11,7)=", resta(11,7))
-"""
