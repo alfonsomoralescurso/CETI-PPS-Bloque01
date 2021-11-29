@@ -12,12 +12,22 @@ def esPalindromo(cadena):
         inv = cadena[::-1]
         if cadena == inv:
             res = True
-    
+
+    # else  absurdo añadido para hacer prueba coverage
+    ## se puede borrar
+    else:
+        print("Cadena vacía")
+        res = False
+
+    # if  absurdo añadido para hacer prueba coverage
+    ## se puede borrar
     if cadena == "torero":
         print("testing")    
+
     return res
 
-def testing():
+## para pruebas coverage: función que no se usa..
+def invierte():
     print("hola")
-    x = 3
+    x = 3 
 

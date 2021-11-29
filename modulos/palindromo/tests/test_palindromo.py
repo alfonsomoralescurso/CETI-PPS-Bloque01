@@ -22,3 +22,8 @@ class TestPalindromo(unittest.TestCase):
 
     def test_06_vacia(self):
         self.assertFalse(esPalindromo(""))
+
+    # prueba absurda añadida para hacer prueba coverage
+    ## se puede borrar
+    def test_07_torero(self):
+        self.assertFalse(esPalindromo("torero"))
