@@ -2,13 +2,16 @@
 Ejemplos bloque 01 curso PPS CETI
 
 - Python
+  - sintaxis básica
   - módulos
+  - tipos de datos
+  - API
+  - Flask
 
 - Entorno virtual:venv
 - Un poquito de git
-
-
-
+- test con unittest
+- coverage: cobertura
 
 ## Uso básico git
 
