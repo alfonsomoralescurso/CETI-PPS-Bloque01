@@ -1,6 +1,6 @@
-# prueba.py
+# prueba_palindromo.py
 
-from palindromo import esPalindromo
+from palindromo.palindromo import esPalindromo
 
 cadena = input("Frase a evaluar: ")
 
