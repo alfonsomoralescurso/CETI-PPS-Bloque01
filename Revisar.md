@@ -1,19 +1,4 @@
-# CETI-PPS-Bloque01
-Ejemplos bloque 01 curso PPS CETI
-
-- Python
-  - sintaxis básica
-  - módulos
-  - tipos de datos
-  - API
-  - Flask
-
-- Entorno virtual:venv
-- Un poquito de git
-- test con unittest
-- coverage: cobertura
-
-## Uso básico git
+## Duda 01: uso básico git
 
 Por ahora sólo queremos tener acceso a un repositorio github para descargar su contenido y mantenerlo actualizado.
 
@@ -33,3 +18,25 @@ Ya está actualizado.
 ~/kk/CETI-PPS-Bloque01$
 ```
 
+## Duda 02: activar venv en Windows
+
+Es un pelín distinto...
+
+En Windows:
+
+```
+c:\proyecto\> .venv\Scripts\activate
+```
+
+En Linux:
+```bash
+$ source venv/bin/activate
+```
+
+Fuente:  https://dev.to/e_farach/setting-up-a-python-virtual-environment-on-windows-for-absolute-beginners-il6
+
+
+
+
+
+ 
